@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SoFree</string>
+    <string name="menu_main">Main</string>
+    <string name="menu_chat">Chat</string>
+    <string name="menu_profile">Profile</string>
+    <string name="button_upload">Upload</string>
+    <string name="title_new_entry">ADD NEW POSTAL</string>
+    <string name="example_entry">Please add minimum 12 character text</string>
+    <string name="button_add_entry">ADD</string>
+</resources>
